@@ -4,10 +4,10 @@
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/Rehanali78/CamPhish`
+* `git clone https://github.com/Rehanali78/CameraHack`
 * `cd $HOME`
 * `ls`
-* `cd CamPhish`
+* `cd CameraHack`
 * `ls`
 * `bash CamPhish.sh`
 ```
