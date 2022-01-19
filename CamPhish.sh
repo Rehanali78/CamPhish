@@ -27,12 +27,12 @@ echo '
 | (____/\| )   ( || )   ( || ) \ \__| )   ( || () () || )   ( || )  \  |
 (_______/|/     \||/     \||/   \__/|/     \|(_______)|/     \||/    )_)
                                                                         
-                              BaapG Ghazipur Up India(_& v1.1 ' |lolcat
+                              Coded By Umar Pakistan (_& v1.1 ' |lolcat
 
                                                                                
 echo " "
 printf "      \e[1;77m v2.9 My Github~> github.com/Vretlee/CamPhish\e[0m \n"
-printf "          \e[1;77m BaapG Follow Me On Insta @krish_na_2568}\e[0m \n"
+printf "          \e[1;77m Black Hat Pakistan }\e[0m \n"
 
 printf "\n"
 
