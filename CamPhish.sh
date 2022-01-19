@@ -31,7 +31,8 @@ echo '
 
                                                                                
 echo " "
-printf "      \e[1;77m v2.9 My Github~> github.com/Vretlee/CamPhish\e[0m \n"
+printf "      \e[1;77m v2.9 My Github~> github.com/Rehanali78/CameraHack\e[0m \n"
+
 printf "          \e[1;77m Black Hat Pakistan Uzamkhan }\e[0m \n"
 
 printf "\n"
